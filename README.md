@@ -16,3 +16,8 @@ This is a simple web application that allows users to search for GitHub reposito
 - **CSS**: For styling the application with a dark theme.
 - **JavaScript**: For handling search functionality and interacting with the GitHub API.
 - **GitHub API**: For fetching repository data.
+
+
+## Live Demo
+
+You can view the live demo of the application here: [GitHub Search Tool Demo](https://gitsearch-three-eta.vercel.app/)
